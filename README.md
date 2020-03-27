@@ -5,7 +5,8 @@
 * А попытки вручную создать sta ни к чему не привели.
 * Не коннектится.
 
-* Поместить add-wifi-rtl8189es.patch в $(BUILD_DIR)
+* Cкачать https://github.com/melsem/rtl8189es/raw/master/add-wifi-rtl8189es.patch.zip
+* Распаковать add-wifi-rtl8189es.patch в $(BUILD_DIR)
 * и дать команду:
 ```
 patch -p1 < add-wifi-rtl8189es.patch
