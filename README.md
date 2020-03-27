@@ -18,4 +18,3 @@ patch -p1 < add-wifi-rtl8189es.patch
 make menuconfig
 make V=s
 ```
-
